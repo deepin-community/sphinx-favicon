@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+sphinx-favicon (1.0.1-4) unstable; urgency=medium
 
-  * Initial release
+  * Source-only reupload for testing migration
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Sat, 13 May 2023 12:01:57 +0200
+
+sphinx-favicon (1.0.1-3) unstable; urgency=low
+
+  * Initial release (Closes: #1034559)
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Mon, 17 Apr 2023 12:38:01 +0000
